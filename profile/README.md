@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ DEV-codeNexus
+# DEV-codeNexus
 
 ### We build at hackathon speed and ship real products.
 
@@ -22,7 +22,7 @@ Every project here started as a challenge and was built to work end to end, with
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
@@ -33,10 +33,10 @@ Every project here started as a challenge and was built to work end to end, with
 
 Early risk screening and clinical triage for **preeclampsia, gestational diabetes, and preterm birth**, built for low-connectivity clinics.
 
-- 📶 Offline-first Stage 1 screener (web + mobile) with sync on reconnect
-- 🧠 Server-side Stage 2 diagnostics with explainable AI (SHAP)
-- 👩‍⚕️ Portals for frontline staff, doctors, patients, and admins
-- 🌐 Multilingual UI: English, Sinhala, Tamil
+- Offline-first Stage 1 screener (web + mobile) with sync on reconnect
+- Server-side Stage 2 diagnostics with explainable AI (SHAP)
+- Portals for frontline staff, doctors, patients, and admins
+- Multilingual UI: English, Sinhala, Tamil
 
 `Next.js` `FastAPI` `PostgreSQL` `React Native` `scikit-learn`
 
@@ -48,10 +48,10 @@ Early risk screening and clinical triage for **preeclampsia, gestational diabete
 
 Monitors marketplace listings for **Minimum Advertised Price** violations, scores them with ML, and generates evidence-backed enforcement letters.
 
-- 🕸️ Geo-targeted residential/ISP proxy crawling (live on Daraz)
-- 🤖 XGBoost violation scoring + semantic title matching
-- 🔗 Seller fingerprinting across renamed storefronts
-- 📄 AI-drafted letters, Playwright screenshots, PDF reports
+- Geo-targeted residential/ISP proxy crawling (live on Daraz)
+- XGBoost violation scoring + semantic title matching
+- Seller fingerprinting across renamed storefronts
+- AI-drafted letters, Playwright screenshots, PDF reports
 
 `Next.js` `FastAPI` `Celery` `Redis` `XGBoost` `Playwright`
 
@@ -65,10 +65,10 @@ Monitors marketplace listings for **Minimum Advertised Price** violations, score
 
 Continuously collects news and social signals from 9+ sources, scores risk, and visualizes it on live dashboards.
 
-- 📰 RSS, Reddit, GDELT, and World Bank data collection
-- 📊 Deterministic 1–10 risk scoring (sentiment, crisis keywords, source reliability)
-- 🗺️ Geospatial risk map, analytics, and a live risk feed
-- 🔮 Anomaly detection and 7-day forecasting
+- RSS, Reddit, GDELT, and World Bank data collection
+- Deterministic 1–10 risk scoring (sentiment, crisis keywords, source reliability)
+- Geospatial risk map, analytics, and a live risk feed
+- Anomaly detection and 7-day forecasting
 
 `Python` `Streamlit` `SQLite` `Pydeck` `VADER`
 
@@ -80,10 +80,10 @@ Continuously collects news and social signals from 9+ sources, scores risk, and 
 
 An HTTP API that health-checks proxy pools continuously and raises alerts when the pool starts failing.
 
-- ✅ Live up/down tracking with per-proxy history
-- 🚨 Alert state machine that fires at a 20% failure rate and resolves on recovery
-- 🔁 Webhook delivery with retries, backoff, and deduplication
-- 💬 Slack and Discord integrations, metrics, and a dashboard
+- Live up/down tracking with per-proxy history
+- Alert state machine that fires at a 20% failure rate and resolves on recovery
+- Webhook delivery with retries, backoff, and deduplication
+- Slack and Discord integrations, metrics, and a dashboard
 
 `Node.js` `Express` `Webhooks`
 
@@ -97,11 +97,11 @@ An HTTP API that health-checks proxy pools continuously and raises alerts when t
 
 PawMatch matches pets with adopters by **lifestyle compatibility**, not just listings, so fewer pets are returned and more adoptions last.
 
-- 💞 **Pawsonality engine** scores activity, time, space, experience, existing pets, and neighborhood, with hard safety filters
-- 🐕 **Buddy-check** matches temperament against pets already in the home
-- 🪪 Sri Lankan NIC verification for adopters and document review for shelters
-- 🏠 Adoption workflow, foster-to-adopt, shelter visits, and in-app messaging
-- 📈 90-day post-adoption **welfare tracker**, community animal reports, and achievements
+- **Pawsonality engine** scores activity, time, space, experience, existing pets, and neighborhood, with hard safety filters
+- **Buddy-check** matches temperament against pets already in the home
+- Sri Lankan NIC verification for adopters and document review for shelters
+- Adoption workflow, foster-to-adopt, shelter visits, and in-app messaging
+- 90-day post-adoption **welfare tracker**, community animal reports, and achievements
 
 `Next.js` `TypeScript` `Tailwind CSS` `shadcn/ui` `Node.js` `Express` `MySQL` `Cloudinary` `Twilio`
 
@@ -155,23 +155,22 @@ PawMatch matches pets with adopters by **lifestyle compatibility**, not just lis
 
 ---
 
-## 🎯 What Drives Us
+## What Drives Us
 
 | | |
 |---|---|
-| 🌍 **Local impact** | Many of our projects target Sri Lanka and South Asia directly, with multilingual UIs, NIC verification, and local data sources. |
-| 🧠 **Applied AI** | We use ML where it actually helps: explainable clinical risk models, violation classifiers, sentiment-based risk scoring. |
-| 📶 **Built for reality** | Offline-first apps, retry and backoff logic, and graceful fallbacks, because real conditions are messy. |
-| ⚡ **Hackathon speed, product quality** | We ship fast, then keep going with role-based access, security hardening, and testing. |
+| **Local impact** | Many of our projects target Sri Lanka and South Asia directly, with multilingual UIs, NIC verification, and local data sources. |
+| **Applied AI** | We use ML where it actually helps: explainable clinical risk models, violation classifiers, sentiment-based risk scoring. |
+| **Built for reality** | Offline-first apps, retry and backoff logic, and graceful fallbacks, because real conditions are messy. |
+| **Hackathon speed, product quality** | We ship fast, then keep going with role-based access, security hardening, and testing. |
 
 ---
 
-## 🤝 Get Involved
+## Get Involved
 
 - ⭐ **Star** any project you find useful
 - 🐛 **Open an issue** if you spot a bug or have an idea
 - 🔀 **Send a pull request** — contributions are welcome
-- 🏆 **Hackathon organizers:** we'd love to hear about your next challenge
 
 ---
 
