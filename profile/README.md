@@ -14,7 +14,7 @@
 
 ---
 
-## 🧭 Who We Are
+## Who We Are
 
 **DEV-codeNexus** (also known as **CODE_NEXUS**) is a developer collective that competes in hackathons and keeps building after the judging ends. We like hard, real-world problems: maternal health in low-connectivity clinics, price fraud on online marketplaces, national risk monitoring, and making sure rescued animals find homes that last.
 
