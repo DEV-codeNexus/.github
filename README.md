@@ -21,11 +21,11 @@ DEV-codeNexus (CODE_NEXUS) is a team that competes in hackathons and develops th
 | [VerifyShelf](https://github.com/DEV-codeNexus/verifishelf) | Brand protection platform that detects Minimum Advertised Price violations on online marketplaces | Next.js, FastAPI, Celery, Redis, XGBoost, Playwright |
 | [National Risk Intelligence Platform](https://github.com/DEV-codeNexus/National-Risk-Intelligence-Platform) | Real-time risk monitoring for Sri Lanka built from news and social data | Python, Streamlit, SQLite, Pydeck |
 | [ProxyMaze](https://github.com/DEV-codeNexus/ProxyMaze26) | HTTP API for real-time proxy pool health monitoring and alerting | Node.js, Express |
-| PawMatch ([Backend](https://github.com/DEV-codeNexus/PawMatchbackend), [Frontend](https://github.com/DEV-codeNexus/PawMatchFront)) | Pet adoption platform that matches pets with adopters based on lifestyle compatibility | Next.js, TypeScript, Node.js, Express, MySQL |
+| 🐾 PawMatch ([Backend](https://github.com/DEV-codeNexus/PawMatchbackend), [Frontend](https://github.com/DEV-codeNexus/PawMatchFront)) | Pet adoption platform that matches pets with adopters based on lifestyle compatibility | Next.js, TypeScript, Node.js, Express, MySQL |
 
 ---
 
-### BloomCare
+### 🌸 BloomCare
 
 A maternal healthcare platform for low-connectivity clinical environments. An offline-first screener on web and mobile handles initial triage. Server-side models then assess preeclampsia, gestational diabetes, and preterm birth risk, with explanations for each result.
 
@@ -34,7 +34,7 @@ A maternal healthcare platform for low-connectivity clinical environments. An of
 - Appointments, prescriptions, and longitudinal tracking of vital signs
 - Interface available in English, Sinhala, and Tamil
 
-### VerifyShelf
+### 🛡️ VerifyShelf
 
 *Built for the ProxyMaze hackathon.*
 
@@ -45,7 +45,7 @@ A monitoring platform that helps brands enforce Minimum Advertised Price (MAP) p
 - Seller fingerprinting to link storefronts that have changed names
 - Generated enforcement letters, listing screenshots, and weekly PDF reports
 
-### National Risk Intelligence Platform
+### 🗺️ National Risk Intelligence Platform
 
 A risk intelligence dashboard for Sri Lanka. It continuously collects data from RSS feeds, Reddit, GDELT, and World Bank indicators, then scores each item for risk.
 
@@ -54,7 +54,7 @@ A risk intelligence dashboard for Sri Lanka. It continuously collects data from 
 - Anomaly detection and seven-day forecasting
 - Monitoring of source health and data collection
 
-### ProxyMaze
+### 📡 ProxyMaze
 
 An API service that continuously health-checks a pool of proxies and manages alerts based on the pool's failure rate.
 
@@ -63,7 +63,9 @@ An API service that continuously health-checks a pool of proxies and manages ale
 - Webhook delivery with retries, backoff, and deduplication
 - Slack and Discord integrations, metrics endpoint, and dashboard
 
-### PawMatch
+### 🐾 PawMatch
+
+*Smarter adoptions, happier endings.* 🐶🐱
 
 An adoption platform that matches pets and adopters on lifestyle factors rather than browsing alone, with the aim of reducing returns.
 
